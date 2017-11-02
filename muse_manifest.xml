@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://persianatemanuscriptinitiative.github.io/website,http://www.persianmanuscript.org" resolutions="1x" timestamp="1509630196112">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://persianatemanuscriptinitiative.github.io/website,http://www.persianmanuscript.org" resolutions="1x" timestamp="1509633646321">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="17march2017.css" crc="33493204" ref="17march2017"/>
+    <file name="17march2017.css" crc="4216995526" ref="17march2017"/>
     <file name="18october2016.css" crc="3951860027" ref="18october2016"/>
     <file name="10october2016.css" crc="364724179" ref="10october2016"/>
-    <file name="22september2016.css" crc="244216874" ref="22september2016"/>
+    <file name="22september2016.css" crc="3767164061" ref="22september2016"/>
     <file name="7october2016.css" crc="4023929336" ref="7october2016"/>
-    <file name="about.css" crc="3993948471" ref="about"/>
-    <file name="21april2017.css" crc="102368286" ref="21april2017"/>
-    <file name="contact.css" crc="195260043" ref="contact"/>
-    <file name="projects.css" crc="4023069823" ref="projects"/>
-    <file name="locproject.css" crc="167607258" ref="locproject"/>
-    <file name="index.css" crc="486258370" ref="index"/>
-    <file name="14november2016.css" crc="234703619" ref="14november2016"/>
-    <file name="blog.css" crc="378153646" ref="blog"/>
+    <file name="about.css" crc="4145204871" ref="about"/>
+    <file name="21april2017.css" crc="3825764412" ref="21april2017"/>
+    <file name="contact.css" crc="4011333112" ref="contact"/>
+    <file name="projects.css" crc="434715401" ref="projects"/>
+    <file name="locproject.css" crc="4125312794" ref="locproject"/>
+    <file name="index.css" crc="417642270" ref="index"/>
+    <file name="14november2016.css" crc="4066798725" ref="14november2016"/>
+    <file name="blog.css" crc="4164522544" ref="blog"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
@@ -52,67 +52,67 @@
     </file>
     <file name="download (2).jpg" crc="5143290" seo="true" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016">
       <caption webpage="locproject" alt=""/>
-      <caption webpage="7october2016" alt=""/>
-      <caption webpage="projects" alt=""/>
+      <caption webpage="18october2016" alt=""/>
+      <caption webpage="22september2016" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="17march2017" alt=""/>
-      <caption webpage="18october2016" alt=""/>
-      <caption webpage="blog" alt=""/>
+      <caption webpage="7october2016" alt=""/>
+      <caption webpage="projects" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="21april2017" alt=""/>
       <caption webpage="14november2016" alt=""/>
-      <caption webpage="22september2016" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="10october2016" alt=""/>
     </file>
     <file name="download (3).jpg" crc="4165730769" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="download (4).jpg" crc="3971628876" seo="true" ref="contact">
+    <file name="download (4).jpg" crc="3766789079" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="loc.jpg" crc="4174471814" seo="true" ref="projects">
+    <file name="loc.jpg" crc="3852406470" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="download (1)520x314.jpg" crc="482512735" seo="true" ref="projects">
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="back-cover.jpg" crc="253728027" seo="true" ref="projects">
+    <file name="back-cover.jpg" crc="17746293" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
     <file name="download (5).jpg" crc="311311034" seo="true" ref="blog">
       <caption webpage="blog" alt=""/>
     </file>
-    <file name="vhmmlss.jpg" crc="4268609451" seo="true" ref="locproject">
+    <file name="vhmmlss.jpg" crc="9995180" seo="true" ref="locproject">
       <caption webpage="locproject" alt=""/>
     </file>
-    <file name="download (1)2.jpg" crc="4082955048" seo="true" ref="21april2017">
+    <file name="download (1)2.jpg" crc="4038303902" seo="true" ref="21april2017">
       <caption webpage="21april2017" alt=""/>
     </file>
-    <file name="download (2)2.jpg" crc="4185227200" seo="true" ref="14november2016">
+    <file name="download (2)2.jpg" crc="4067645765" seo="true" ref="14november2016">
       <caption webpage="14november2016" alt=""/>
     </file>
-    <file name="download (3)2.jpg" crc="157168614" seo="true" ref="14november2016">
+    <file name="download (3)2.jpg" crc="228457084" seo="true" ref="14november2016">
       <caption webpage="14november2016" alt=""/>
     </file>
-    <file name="download (4)2.jpg" crc="4238780127" seo="true" ref="14november2016">
+    <file name="download (4)2.jpg" crc="233735860" seo="true" ref="14november2016">
       <caption webpage="14november2016" alt=""/>
     </file>
     <file name="p1130419.jpg" crc="4257790052" seo="true" ref="14november2016">
       <caption webpage="14november2016" alt=""/>
     </file>
+    <file name="download (1)395x238.jpg" crc="106130454" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3903282848" seo="true" mt="1509624594524" redirect="true"/>
-  <file name="about.html" crc="295686895" seo="true" mt="1509624594526" redirect="true"/>
-  <file name="contact.html" crc="3783820441" seo="true" mt="1509624594527" redirect="true"/>
-  <file name="projects.html" crc="54093504" seo="true" mt="1509624594530" redirect="true"/>
-  <file name="blog.html" crc="3947544833" seo="true" mt="1509627595202" redirect="true"/>
-  <file name="locproject.html" crc="188200172" seo="true" mt="1509625024741" redirect="true"/>
-  <file name="21april2017.html" crc="487663067" seo="true" mt="1509628449926" redirect="true"/>
-  <file name="17march2017.html" crc="517649750" seo="true" mt="1509629094918" redirect="true"/>
-  <file name="14november2016.html" crc="4146435151" seo="true" mt="1509629964811" redirect="true"/>
+  <file name="index.html" crc="437245956" seo="true" mt="1509633616625" redirect="true"/>
+  <file name="about.html" crc="4267960776" seo="true" mt="1509633597855" redirect="true"/>
+  <file name="contact.html" crc="352695759" seo="true" mt="1509633607342" redirect="true"/>
+  <file name="projects.html" crc="3936625506" seo="true" mt="1509633576761" redirect="true"/>
+  <file name="blog.html" crc="436022985" seo="true" mt="1509633203887" redirect="true"/>
+  <file name="locproject.html" crc="3804839764" seo="true" mt="1509633582903" redirect="true"/>
+  <file name="21april2017.html" crc="4291151483" seo="true" mt="1509633081951" redirect="true"/>
+  <file name="17march2017.html" crc="216248729" seo="true" mt="1509633304310" redirect="true"/>
+  <file name="14november2016.html" crc="4158554693" seo="true" mt="1509633510021" redirect="true"/>
   <file name="18october2016.html" crc="3961816475" seo="true" mt="1509628536498" redirect="true"/>
   <file name="10october2016.html" crc="3830929394" seo="true" mt="1509628548922" redirect="true"/>
   <file name="7october2016.html" crc="25734640" seo="true" mt="1509628564462" redirect="true"/>
-  <file name="22september2016.html" crc="484787169" seo="true" mt="1509628576125" redirect="true"/>
+  <file name="22september2016.html" crc="268005886" seo="true" mt="1509633551334" redirect="true"/>
 </manifest>
