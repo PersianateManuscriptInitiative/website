@@ -1,0 +1,118 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://persianatemanuscriptinitiative.github.io/website,http://www.persianmanuscript.org" resolutions="1x" timestamp="1509630196112">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="17march2017.css" crc="33493204" ref="17march2017"/>
+    <file name="18october2016.css" crc="3951860027" ref="18october2016"/>
+    <file name="10october2016.css" crc="364724179" ref="10october2016"/>
+    <file name="22september2016.css" crc="244216874" ref="22september2016"/>
+    <file name="7october2016.css" crc="4023929336" ref="7october2016"/>
+    <file name="about.css" crc="3993948471" ref="about"/>
+    <file name="21april2017.css" crc="102368286" ref="21april2017"/>
+    <file name="contact.css" crc="195260043" ref="contact"/>
+    <file name="projects.css" crc="4023069823" ref="projects"/>
+    <file name="locproject.css" crc="167607258" ref="locproject"/>
+    <file name="index.css" crc="486258370" ref="index"/>
+    <file name="14november2016.css" crc="234703619" ref="14november2016"/>
+    <file name="blog.css" crc="378153646" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016"/>
+    <file name="webpro.js" crc="242022427" ref="contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u3182.php" crc="4125920092" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pmi4.jpg" crc="4260753817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pmi-6.jpg" crc="3964812633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.png" crc="4255077828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (1).jpg" crc="86809360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emad.jpg" crc="3977147992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="matthew.jpg" crc="4055492719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (2).jpg" crc="5143290" seo="true" ref="index:about:contact:projects:blog:locproject:21april2017:17march2017:14november2016:18october2016:10october2016:7october2016:22september2016">
+      <caption webpage="locproject" alt=""/>
+      <caption webpage="7october2016" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="17march2017" alt=""/>
+      <caption webpage="18october2016" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="21april2017" alt=""/>
+      <caption webpage="14november2016" alt=""/>
+      <caption webpage="22september2016" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="10october2016" alt=""/>
+    </file>
+    <file name="download (3).jpg" crc="4165730769" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="download (4).jpg" crc="3971628876" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="loc.jpg" crc="4174471814" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="download (1)520x314.jpg" crc="482512735" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="back-cover.jpg" crc="253728027" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="download (5).jpg" crc="311311034" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="vhmmlss.jpg" crc="4268609451" seo="true" ref="locproject">
+      <caption webpage="locproject" alt=""/>
+    </file>
+    <file name="download (1)2.jpg" crc="4082955048" seo="true" ref="21april2017">
+      <caption webpage="21april2017" alt=""/>
+    </file>
+    <file name="download (2)2.jpg" crc="4185227200" seo="true" ref="14november2016">
+      <caption webpage="14november2016" alt=""/>
+    </file>
+    <file name="download (3)2.jpg" crc="157168614" seo="true" ref="14november2016">
+      <caption webpage="14november2016" alt=""/>
+    </file>
+    <file name="download (4)2.jpg" crc="4238780127" seo="true" ref="14november2016">
+      <caption webpage="14november2016" alt=""/>
+    </file>
+    <file name="p1130419.jpg" crc="4257790052" seo="true" ref="14november2016">
+      <caption webpage="14november2016" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3903282848" seo="true" mt="1509624594524" redirect="true"/>
+  <file name="about.html" crc="295686895" seo="true" mt="1509624594526" redirect="true"/>
+  <file name="contact.html" crc="3783820441" seo="true" mt="1509624594527" redirect="true"/>
+  <file name="projects.html" crc="54093504" seo="true" mt="1509624594530" redirect="true"/>
+  <file name="blog.html" crc="3947544833" seo="true" mt="1509627595202" redirect="true"/>
+  <file name="locproject.html" crc="188200172" seo="true" mt="1509625024741" redirect="true"/>
+  <file name="21april2017.html" crc="487663067" seo="true" mt="1509628449926" redirect="true"/>
+  <file name="17march2017.html" crc="517649750" seo="true" mt="1509629094918" redirect="true"/>
+  <file name="14november2016.html" crc="4146435151" seo="true" mt="1509629964811" redirect="true"/>
+  <file name="18october2016.html" crc="3961816475" seo="true" mt="1509628536498" redirect="true"/>
+  <file name="10october2016.html" crc="3830929394" seo="true" mt="1509628548922" redirect="true"/>
+  <file name="7october2016.html" crc="25734640" seo="true" mt="1509628564462" redirect="true"/>
+  <file name="22september2016.html" crc="484787169" seo="true" mt="1509628576125" redirect="true"/>
+</manifest>
